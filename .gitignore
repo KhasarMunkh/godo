@@ -1,0 +1,14 @@
+# Binary
+godo
+
+# Test todo files
+.godo.json
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
